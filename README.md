@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **RTOS, TI C2000 microcontrollers**.
 - 📫 How to reach me **kutay.ozsoy@hotmail.com**
 
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kutayozsoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kutayozsoy" height="30" width="40" /></a>
 </p>
