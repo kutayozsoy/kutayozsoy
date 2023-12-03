@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👋 Hi I am @kutayozsoy. 
+- 👋 Hi, I am @kutayozsoy. 
 - 🔭 I’m currently working on Embedded Software.
 - 🌱 I’m currently learning RTOS, TI C2000 microcontrollers.  
 - 📫 How to reach me: kutay.ozsoy@hotmail.com
