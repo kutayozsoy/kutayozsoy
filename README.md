@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kutay.ozsoy@hotmail.com
 -->
 
-<h1 align="center">- 👋 Hi, I'm @kutayozsoy</h1>
-<h3 align="center">- A passionate embedded software engineer from Türkiye</h3>
+<h1 align="center">Hi👋, I'm @kutayozsoy</h1>
+<h3 align="center">A passionate embedded software engineer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kutayozsoy&label=Profile%20views&color=0e75b6&style=flat" alt="kutayozsoy" /> </p>
 
