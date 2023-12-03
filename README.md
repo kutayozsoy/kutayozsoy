@@ -27,14 +27,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi👋, I'm @kutayozsoy</h1>
 <h3 align="center">A passionate embedded software engineer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kutayozsoy&label=Profile%20views&color=0e75b6&style=flat" alt="kutayozsoy" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kutayozsoy" alt="kutayozsoy" /></a> </p>
-
 - 🔭 I’m currently working on **Embedded Software**.
-
 - 🌱 I’m currently learning **RTOS, TI C2000 microcontrollers**.
-
 - 📫 How to reach me **kutay.ozsoy@hotmail.com**
 
 <p align="left">
@@ -50,4 +44,6 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kutayozsoy&" alt="kutayozsoy" /></p>
 
-  
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kutayozsoy" alt="kutayozsoy" /></a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kutayozsoy&label=Profile%20views&color=0e75b6&style=flat" alt="kutayozsoy" /> </p>  
